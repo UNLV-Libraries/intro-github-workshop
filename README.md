@@ -2,7 +2,7 @@
 Workshop contents for "Introduction to GitHub," part of the UNLV Graduate Workshop series. Workshop on March 12, 2020.
 
 ## Repository Manifest
-#Loose Files
+### Loose Files
 * vocabulary.md (markdown file) - details common vocabulary for Git and GitHub
 
 ## Additional Resources
