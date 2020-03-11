@@ -5,6 +5,7 @@ Workshop contents for "Introduction to GitHub," part of the UNLV Graduate Worksh
 ### Loose Files
 * GitHub-Home-Interface.png (photograph) - annotated photograph describing GitHub's homepage interface
 * GitHub-Repository-Interface.png (photograph) - annotated photograph describing GitHub's main repository interface
+* GitHub-Versioning-Interface.png (photograph) - annotated photograph describing GitHub's version control screen
 * vocabulary.md (markdown file) - details common vocabulary for Git and GitHub
 
 ## Additional Resources
