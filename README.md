@@ -1,5 +1,5 @@
 # Introduction to GitHub
-Workshop contents for "Introduction to GitHub," part of the UNLV Workshop series.
+Workshop contents for "Introduction to GitHub," part of the UNLV Workshop series. 
 
 ## Workshop Dates
 * March 12, 2020
