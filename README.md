@@ -3,7 +3,7 @@ Workshop contents for "Introduction to GitHub," part of the UNLV Workshop series
 
 ## Workshop Dates
 * March 12, 2020
-* November 1, 2020
+* November 2, 2020
 
 ## Repository Manifest
 ### Loose Files
